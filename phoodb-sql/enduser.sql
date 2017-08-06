@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[enduser]
+(
+	[ID] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Name] VARCHAR(200) NULL
+)

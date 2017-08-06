@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[ingredient]
+(
+	[ID] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Name] VARCHAR(100) NULL
+)
