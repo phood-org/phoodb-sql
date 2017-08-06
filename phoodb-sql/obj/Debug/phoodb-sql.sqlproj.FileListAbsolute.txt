@@ -1,0 +1,5 @@
+C:\Users\pears\Documents\phood\phoodb-sql\phoodb-sql\bin\Debug\phoodb-sql.dacpac
+C:\Users\pears\Documents\phood\phoodb-sql\phoodb-sql\bin\Debug\phoodb_sql.dll
+C:\Users\pears\Documents\phood\phoodb-sql\phoodb-sql\bin\Debug\phoodb_sql.pdb
+C:\Users\pears\Documents\phood\phoodb-sql\phoodb-sql\obj\Debug\phoodb_sql.dll
+C:\Users\pears\Documents\phood\phoodb-sql\phoodb-sql\obj\Debug\phoodb_sql.pdb
