@@ -13,7 +13,3 @@ C:\Users\Pearse.Hutson\Documents\Personal Projects\phoodb-sql\phoodb-sql\bin\Deb
 C:\Users\Pearse.Hutson\Documents\Personal Projects\phoodb-sql\phoodb-sql\bin\Debug\phoodb_sql.pdb
 C:\Users\Pearse.Hutson\Documents\Personal Projects\phoodb-sql\phoodb-sql\obj\Debug\phoodb_sql.dll
 C:\Users\Pearse.Hutson\Documents\Personal Projects\phoodb-sql\phoodb-sql\obj\Debug\phoodb_sql.pdb
-C:\Users\hhuts\Documents\phood\phoodb-sql\phoodb-sql\obj\Debug\Model.xml
-C:\Users\hhuts\Documents\phood\phoodb-sql\phoodb-sql\obj\Debug\refactor.xml
-C:\Users\hhuts\Documents\phood\phoodb-sql\phoodb-sql\obj\Debug\postdeploy.sql
-C:\Users\hhuts\Documents\phood\phoodb-sql\phoodb-sql\obj\Debug\predeploy.sql

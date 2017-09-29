@@ -1,0 +1,45 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[category] (Table)
+       [dbo].[enduser] (Table)
+       [dbo].[ingredient] (Table)
+       [dbo].[library] (Table)
+       [dbo].[recCat] (Table)
+       [dbo].[recIngred] (Table)
+       [dbo].[recipe] (Table)
+       [dbo].[recLib] (Table)
+       [dbo].[recRate] (Table)
+       [dbo].[RecUten] (Table)
+       [dbo].[userIngred] (Table)
+       [dbo].[userLib] (Table)
+       [dbo].[userUten] (Table)
+       [dbo].[utensil] (Table)
+       Default Constraint: unnamed constraint on [dbo].[recIngred] (Default Constraint)
+       Foreign Key: unnamed constraint on [dbo].[recCat] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[recCat] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[recIngred] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[recIngred] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[recLib] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[recLib] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[recRate] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[recRate] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[RecUten] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[RecUten] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[userIngred] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[userIngred] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[userLib] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[userLib] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[userUten] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[userUten] (Foreign Key)
+
+** Supporting actions
